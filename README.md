@@ -81,7 +81,7 @@ terraform destroy
 ```
 
 ### AWS & Terraform Integration
-This project assumes a basic understanding of Terraform's integration with AWS. If you're new to the setup process, read this guide on AWS and Terraform integration for a more comprehensive explanation.
+This project assumes a basic understanding of Terraform's integration with AWS. If you're new to the setup process, read this guide on AWS and Terraform integration for a more comprehensive explanation : https://www.linkedin.com/pulse/aws-terraform-integration-iam-setup-cli-installation-chiamaka-chielo-eo6hf/?trackingId=I3J%2FdhYrSvuQegvGMrDkBw%3D%3D
 
 ### Where to Get Help
 If you encounter issues:
