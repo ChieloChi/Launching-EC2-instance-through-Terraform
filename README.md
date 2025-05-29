@@ -32,9 +32,13 @@ This project covers the following concepts:
 
 
 Launching-EC2-instance-through-Terraform/
+
 ├── main.tf         # Terraform configuration including provider and EC2 instance
+
 ├── variables.tf    # Declares input variables
+
 ├── outputs.tf      # Defines output values after deployment
+
 ├── README.md       # Project documentation (this file)
 
 
